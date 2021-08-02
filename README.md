@@ -1,2 +1,4 @@
 # 4dstem
-Code used to analyze data for my doctoral dissertation
+Code used to analyze data and generate simulated STEM diffraction patterns for my doctoral dissertation,
+titled `TEM Investigation of Alignment, Morphology, Strain, and Rotation Phenomena in the Epitaxial Au-\ce{MoS2} System: Process and Insights`
+August 2021
